@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @guyuuuuu
-- 👀 I’m interested in... everything that I'm interested!
-- 🌱 I’m currently learning... what I do not know!
-- 💞️ I’m looking to collaborate on... computer stuff!
-- 📫 How to reach me: It's on my page!
+
